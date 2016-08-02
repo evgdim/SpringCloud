@@ -1,0 +1,9 @@
+SpringBootCloudDiscovery/.idea/
+SpringBootCloudDiscoveryClient/target/
+SpringBootCloudDiscovery/target/
+*.project
+SpringBootCloudDiscoveryClient/.settings/
+*.iml
+config-server/target/
+*.classpath
+SpringBootCloudDiscovery/.settings/
